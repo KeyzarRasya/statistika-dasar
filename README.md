@@ -22,7 +22,7 @@ you can represent that table, into a javascript code.<br>
 <img width="200" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/604625c3-91b3-4f3b-bd69-634d0967b3e0">
 
 you can call meanGroup method and send a callback function<br>
-<img width="228" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/fda364d7-f60d-48d0-94d8-ecc7fe92bf5d">
+<img width="300" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/fda364d7-f60d-48d0-94d8-ecc7fe92bf5d">
 
 the result :<br>
 <img width="40" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/0a7e9a52-eccf-47bd-929a-dae36e4d7164">
