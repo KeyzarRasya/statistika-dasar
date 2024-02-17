@@ -19,7 +19,7 @@ data is contains 2d arrays, for example if you have to find a mean of group such
 <img width="178" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/9474bd52-782d-4ebe-8f91-735ffbeb5b8c">
 
 you can represent that table, into a javascript code.<br>
-<img width="116" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/604625c3-91b3-4f3b-bd69-634d0967b3e0">
+<img width="200" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/604625c3-91b3-4f3b-bd69-634d0967b3e0">
 
 you can call meanGroup method and send a callback function<br>
 <img width="228" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/fda364d7-f60d-48d0-94d8-ecc7fe92bf5d">
