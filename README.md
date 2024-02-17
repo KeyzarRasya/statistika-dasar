@@ -12,7 +12,7 @@ you can create an instance of Statistika<br>
 
 <img width="218" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/dc6b3ee4-9cf8-44e0-86f8-c5c8f4e42557">
 
-inside Statistika class there is some method :
+<h1>inside Statistika class there is some method :</h1>
 
 <h2>meanGroup(data, callback)</h2>
 data is contains 2d arrays, for example if you have to find a mean of group such as <br>
