@@ -1,7 +1,7 @@
 <h1>Statistika Dasar Package</h1>
 <i>this package for education purpose</i>
 
-import Stistika packages command<br>
+import Statistika packages command<br>
 <img width="273" alt="image" src="https://github.com/KeyzarRasya/statistika-dasar/assets/76760159/1adcb998-8218-4b6a-83e4-8c5b5e2ebfdd">
 
 
