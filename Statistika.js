@@ -1,4 +1,4 @@
-const {convertData} = require("./src/StatistikaHelper")
+const {convertData, findModusF, calculateModusGroup} = require("./src/StatistikaHelper")
 
 class Statistika {
     constructor(){
@@ -36,6 +36,18 @@ class Statistika {
             }
         }
         callback({message:"Calculating failure"});
+    }
+
+    modusGroup(datas, callback){
+        datas = convertData(datas)
+        let tb, p, d1, d2 = 0;
+        const {dataF, index} = findModusF(datas);
+        tb = dataF[0]-0.5;
+        d1 = dataF[dataF.length-1] - datas[index-1][dataF.length-1]
+        d2 = dataF[dataF.length-1] - datas[index+1][dataF.length-1]
+        p = (dataF[1] - dataF[0]) + 1;
+        const mo = calculateModusGroup(tb, d1, d2, p);
+        return callback(mo)
     }
 }
 
